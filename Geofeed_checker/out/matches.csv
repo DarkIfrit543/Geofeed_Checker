@@ -1,0 +1,5 @@
+ipxo_subnet,external_prefix,external_country,external_region,external_city,external_postal,source,source_lineno,ipxo_country_guess,country_mismatch
+94.229.215.0/24,94.229.215.0/24,BR,BR-SP,São Paulo,,https://geofeed.ipxo.com/geofeed.txt,9609,BR,NO
+94.229.215.0/24,94.229.215.0/24,BR,BR-SP,São Paulo,,https://geofeed.ipxo.com/geofeed.txt,9609,BR,NO
+94.229.215.0/24,94.229.215.0/24,BR,BR-SP,São Paulo,,https://geofeed.ipxo.com/geofeed.txt,9609,BR,NO
+94.229.215.0/24,94.229.215.0/24,US,US-CA,Los Angeles,90012,https://clouvider.com/geoipfeed.csv,223,BR,YES
